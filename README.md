@@ -1,6 +1,6 @@
 # minishell
 
-![score](https://github.com/vpaladin/minishell/blob/main/succes.jpg)
+![score](https://github.com/vpaladin/minishell/blob/main/success.png)
 
 ### This is a project from  "School 21"
 Minishell is a group project. The objective of this project is to create a simple shell. It's like little bash or zsh. 
