@@ -15,10 +15,10 @@ cd minishell
 ## Build
 
 - To compile and generate an executable file named minishell
-> - make
+> make
 - To remove obj:
-> - make clean
+> make clean
 - To remove objects and executable file:
-> - make fclean
+> make fclean
 - To re-compile:
-> - make re
+> make re
