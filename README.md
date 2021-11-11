@@ -15,15 +15,15 @@ cd minishell
 ##If haven't installed readline:
 
 ##For Mac
-'''
+```
 brew install readline
-'''
+```
 
 ##For linux
-'''
+```
 sudo apt update
 sudo apt install libreadline-dev
-'''
+```
 
 ## Build
 
