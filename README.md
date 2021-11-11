@@ -12,7 +12,7 @@ git clone https://github.com/vpaladin/minishell.git
 cd minishell
 ```
 
-## If haven't installed readline:
+## If haven't installed library readline:
 for Mac
 ```
 brew install readline
