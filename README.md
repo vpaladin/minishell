@@ -12,6 +12,19 @@ git clone https://github.com/vpaladin/minishell.git
 cd minishell
 ```
 
+##If haven't installed readline:
+
+##For Mac
+'''
+brew install readline
+'''
+
+##For linux
+'''
+sudo apt update
+sudo apt install libreadline-dev
+'''
+
 ## Build
 
 - To compile and generate an executable file named minishell
